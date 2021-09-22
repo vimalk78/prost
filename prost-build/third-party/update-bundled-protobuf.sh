@@ -15,6 +15,8 @@ ARCHS=( \
   "linux-aarch_64" \
   "linux-x86_32" \
   "linux-x86_64" \
+  "linux-s390x" \
+  "linux-ppcle_64" \
   "osx-x86_64" \
   "win32" \
 )
